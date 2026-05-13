@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Rohit Mahato
 =====================================================================================================================================
 
-Java | JavaScript | DSA | Learning React, Spring Boot & Node.js 🚀
+Java | JavaScript | DSA | Learning React Native, Spring Boot & Node.js 🚀
 ------------------------------------------------------------------
 
 I am a 2nd-year Electronics and Communication Engineering (ECE) student with a strong interest in software development and problem solving. I have skills in Java, JavaScript, and Data Structures & Algorithms, and I am currently learning React, Spring Boot, and Node.js to strengthen my full-stack development skills
