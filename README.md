@@ -8,7 +8,7 @@ I am a 2nd-year Electronics and Communication Engineering (ECE) student with a s
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [rohitmahatoece@gmail.com](mailto:rohitmahatoece@gmail.com)
-* 🧠  I'm currently learning Learning React, Spring Boot & Node.js 🚀
+* 🧠  I'm currently learning Learning React Native, Spring Boot & Node.js 🚀
 * 👥  I'm looking to collaborate on app development
 * 💬  Ask me about I am secretly spiderman... but don't tell anyone
 
